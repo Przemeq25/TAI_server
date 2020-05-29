@@ -3231,7 +3231,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         _classCallCheck(this, AuthService);
 
         this.http = http;
-        this.url = 'http://localhost:3000/api';
+        this.url = 'https://tai-blog-pwsz.herokuapp.com/api';
       }
 
       _createClass(AuthService, [{
@@ -3354,7 +3354,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         _classCallCheck(this, DataService);
 
         this.http = http;
-        this.url = 'http://localhost:3000';
+        this.url = 'https://tai-blog-pwsz.herokuapp.com';
       }
 
       _createClass(DataService, [{
