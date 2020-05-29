@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Przemysław Cichoń",
+  "author": "Przemyslaw Cichon",
   "license": "ISC",
   "dependencies": {
     "babel-core": "6.26.3",
