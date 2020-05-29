@@ -40,6 +40,6 @@ app.get('/*', function (req, res) {
   res.sendFile(path.join(__dirname, +'/public/index.html'));
 });
 
-app.listen(config, () => {
+app.listen(process.env.PORT || 3000, () => {
   console.info(`Server is running at ${config.port}`)
 });
