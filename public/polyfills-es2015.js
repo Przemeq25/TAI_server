@@ -3033,7 +3033,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\Download\new\TAI_Lab_5-feature-server\blog\src\polyfills.ts */"./src/polyfills.ts");
+module.exports = __webpack_require__(/*! D:\Szkoła\Studia\Front-End\TAI_Lab_5\blog\src\polyfills.ts */"./src/polyfills.ts");
 
 
 /***/ })
